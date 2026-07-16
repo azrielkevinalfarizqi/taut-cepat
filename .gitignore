@@ -1,5 +1,6 @@
-# Object file
-*.o
-
-# Ada Library Information
-*.ali
+.streamlit/secrets.toml
+sertifikat/
+__pycache__/
+*.pyc
+.venv/
+venv/
